@@ -26,6 +26,10 @@ public class Main {
 
         System.out.println("*********************");
 
+        System.out.println("Reverse of the number in words : " + NumberToWords.numberToWords(987));
+
+        System.out.println("*********************");
+
 
         System.out.println("Great Common Divisor Of The Two : " + GreatCommonDivisior.getGreatestCommonDivisor(123,321));
 
@@ -47,7 +51,7 @@ public class Main {
 
         System.out.println("*********************");
 
-        System.out.println("Factorial of the number = " + AllFactor.printFactors(45));
+        System.out.println("Perfect Number = " + PerfectNumber.isPerfectNumber(6));
 
         int number = 4;
         int finishNumber = 20;

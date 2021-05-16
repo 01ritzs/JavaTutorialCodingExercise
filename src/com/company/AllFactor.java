@@ -9,7 +9,7 @@ public class AllFactor {
                 }
             }
         } else {
-            System.out.println("Invalid Valuequi");
+            System.out.println("Invalid Value");
         }
     }
 }
