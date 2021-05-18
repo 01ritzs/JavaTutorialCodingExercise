@@ -26,7 +26,7 @@ public class Main {
 
         System.out.println("*********************");
 
-        System.out.println("Reverse of the number in words : " + NumberToWords.numberToWords(987));
+
 
         System.out.println("*********************");
 
